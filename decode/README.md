@@ -1,0 +1,1 @@
+code for [#1](https://github.com/winjo/blog/issues/1)
